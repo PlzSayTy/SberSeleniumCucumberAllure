@@ -17,12 +17,15 @@
         <compiler.version>1.8</compiler.version>
 
         <selenium.version>3.7.0</selenium.version>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
     </properties>
 
 
 
     <dependencies>
+             
         <dependency>
 
             <groupId>org.junit.jupiter</groupId>
